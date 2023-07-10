@@ -28,7 +28,7 @@ After experimentation and iterative refinement, the project achieved an impressi
 ## Usage
 To replicate and build upon this project:
 
-1. Clone the project repository: `https://github.com/timalsinab/mnist-classification`
+1. Clone the project repository: `https://github.com/timalsinab/MNIST-Classification-using-Machine-Learning`
 2. Install the required dependencies using `pip` or `conda`.
 3. Run the Jupyter Notebook or Python script that corresponds to the chosen machine learning algorithm.
 4. Adjust hyperparameters, model architecture, and preprocessing techniques as desired.
