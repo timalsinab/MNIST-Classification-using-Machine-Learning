@@ -37,6 +37,4 @@ To replicate and build upon this project:
 ## Conclusion
 The MNIST Classification project demonstrates the successful application of machine learning algorithms to accurately classify handwritten digits. The achieved accuracy of 98.5% showcases the power of convolutional neural networks in solving image classification tasks.
 
-By following the steps outlined in this project, researchers and developers can gain valuable insights into the process of digit classification and leverage the models to automate similar tasks in various domains.
 
-Please refer to the project documentation and code for more detailed information and insights on the MNIST classification process.
